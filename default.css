@@ -42,6 +42,7 @@ ul {
 }
 
 a {
+    font-family: 'Roboto Mono', monospace;
     text-decoration: none;
 }
 
@@ -70,7 +71,6 @@ h6 {
 }
 
 p,
-a,
 li,
 span,
 label,
@@ -207,11 +207,14 @@ textarea {
     background-color: #fff;
 }
 
-#green-mode {
-    backgorund-color: #78866b
-}
 
-#blue-mode {
+/* #green-mode {
+    /* backgorund-color: #78866b */
+
+
+/* } */
+
+*/ #blue-mode {
     background-color: #192734;
 }
 
